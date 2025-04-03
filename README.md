@@ -1,2 +1,28 @@
-# volleyball-in-pygame
-This is a simple volleyball game I made in python, for this i used pygame library for the game mechanics and did the pixel art of the game myself
+# Foobar
+
+Pygame is a Python library for developing games.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install pygame
+```
+
+## Usage
+
+```bash
+python main.py
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
